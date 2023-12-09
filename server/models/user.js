@@ -14,11 +14,6 @@ const userSchema = new mongoose.Schema({
         type: String,
         required: true
     },
-    photo: {
-        type: String,
-        required: false,
-        default: ""
-    },
     designation: {
         type: String,
         required: false
