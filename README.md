@@ -124,5 +124,22 @@ This Application is MERN stack application
 
 ### Website Snapshots
 
-1) Home page
-![Alt text](image.png)
+1) Signup page
+
+![Alt text](./readme-images/signup.png)
+
+2) Login Page
+
+![Alt text](./readme-images/login.png)
+
+3) Home page
+
+![Alt text](./readme-images/home.png)
+
+4) Find page here users enter id of test to find the test and then attend the test.
+
+![Alt text](./readme-images/find.png)
+
+5) Test page here user can attend the test and give answers and all.
+
+![Alt text](./readme-images/test.png)
